@@ -7,6 +7,6 @@ this is my first Git
 
 - add to 'dev_branch'
 
-  ## dev
-  - add to 'dev_branch'
+## dev
+- add to 'dev_branch'
     
